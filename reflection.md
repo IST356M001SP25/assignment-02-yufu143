@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+With this assignment, I was able to really gauge how much I really understand and don't understand about coding in Python. I found this assignment very difficult and most of the functions are not complete. I had a lot of trouble with managing JSON and Python dictionaries, appending, and parsing strings. 
